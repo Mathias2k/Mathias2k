@@ -3,7 +3,7 @@
 - 🌱 Code is cool
 - 📫 contact me/contate-me: rodolfo_psl@hotmail.com
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/Mathias2k">
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathias2k&layout=compact&langs_count=7&theme=dracula"/>
 </div>
@@ -27,6 +27,6 @@
   <a href = "mailto:rodolfo_psl@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rodolfo-mathias-a40281130" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/Mateus-Batista12/Mateus-Batista12/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Mathias2k/Mathias2k/blob/output/github-contribution-grid-snake.svg)
  
 </div>
