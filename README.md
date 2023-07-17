@@ -1,7 +1,7 @@
 ### Hello World 👋
 
 - 🌱 Code is cool, 7 years doing it
-- 📫 contact me/contate-me: rodolfo_psl@hotmail.com
+- 📫 Contact me: rodolfo_psl@hotmail.com
 
 <div align="left">
   <a href="https://github.com/Mathias2k">
