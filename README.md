@@ -1,6 +1,6 @@
 ### Hello World 👋
 
-- 🌱 Code is cool
+- 🌱 Code is cool, 7 years doing it
 - 📫 contact me/contate-me: rodolfo_psl@hotmail.com
 
 <div align="left">
